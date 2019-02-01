@@ -29,7 +29,7 @@ interests = [
 [[education.courses]]
   course = "PhD Candidate in Health Outcomes"
   institution = "University of British Columbia"
-  year =
+  year = 2020
 
 [[education.courses]]
   course = "MSc in Ecology"
