@@ -16,7 +16,7 @@ organizations = [ { name = "University of British Columbia", url = "" } ]
 bio = "I study the health outcomes and economics of respiratory diseases."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email = "kate.johnson@alumni.ubc.ca"
+email = ""
 
 # List (academic) interests or hobbies
 interests = [
@@ -60,9 +60,9 @@ interests = [
 #   Full list: https://jpswalsh.github.io/academicons/
 
 [[social]]
-#  icon = "envelope"
+  icon = "envelope"
 #  icon_pack = "fas"
-#  link = "#contact"  # For a direct email link, use "mailto:test@example.org".
+#  link = "#kate.johnson@alumni.ubc.ca"  # For a direct email link, use "mailto:test@example.org".
 
 [[social]]
 #  icon = "twitter"
