@@ -88,6 +88,6 @@ interests = [
 
 +++
 
-Kate Johnson does lots of things, one of which is work on her website. She unfortunately does not speak latin. 
+Kate Johnson does lots of things, one of which is work on her website. Unfortunately she does not speak latin, but maybe you do? 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
