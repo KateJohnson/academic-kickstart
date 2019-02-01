@@ -16,7 +16,7 @@ organizations = [ { name = "University of British Columbia", url = "" } ]
 bio = "I study the health outcomes and economics of respiratory diseases."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email = ""
+email = "kate.johnson@alumni.ubc.ca"
 
 # List (academic) interests or hobbies
 interests = [
