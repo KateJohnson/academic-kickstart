@@ -41,14 +41,14 @@ tags = []
 
 # Links (optional).
 url_pdf = "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6296193/pdf/copd-13-3983.pdf"
-url_preprint = "#"
-url_code = "#"
-url_dataset = "#"
+url_preprint = ""
+url_code = ""
+url_dataset = ""
 url_project = ""
-url_slides = "#"
-url_video = "#"
-url_poster = "#"
-url_source = "#"
+url_slides = ""
+url_video = ""
+url_poster = ""
+url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
