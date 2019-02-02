@@ -22,7 +22,7 @@ publication = "In *International Journal of COPD*"
 #publication_short = "In *ICMEW*"
 
 # Abstract and optional shortened version.
-abstract = "The burden of symptoms varies markedly between patients with COPD and is only weakly correlated with lung function impairment. While heterogeneity in lung function decline and exacerbations have been previously studied, the extent of heterogeneity in symptoms and the factors associated with this heterogeneity are not well understood."
+abstract = "Respiratory symptoms are a key component of the natural history of chronic obstructive pulmonary disease, but they have been less well studied than other disease dimensions. We documented wide variation in the presence of symptoms between individuals that was not well explained by other markers of disease such as lung function."
 
 # Is this a featured publication? (true/false)
 featured = true
