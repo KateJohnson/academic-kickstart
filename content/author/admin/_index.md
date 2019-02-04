@@ -88,6 +88,6 @@ interests = [
 
 +++
 
-Kate Johnson is a PhD Candidate in the Respiratory Evaluation Sciences Program ([RESP])(http://resp.core.ubc.ca/) at the UBC Faculty of Pharmaceutical Sciences. The focus of her PhD research is on evaluating strategies for improving early detection of chronic obstructive pulmonary disease (COPD). In particular, Kate is assessing the efficiency of case detection strategies for detecting individuals with undiagnosed COPD. 
+Kate Johnson is a PhD Candidate in the *Respiratory Evaluation Sciences Program* [(RESP)](http://resp.core.ubc.ca/) at the UBC Faculty of Pharmaceutical Sciences. The focus of her PhD research is on evaluating strategies for improving early detection of chronic obstructive pulmonary disease (COPD). In particular, Kate is assessing the efficiency of case detection strategies for detecting individuals with undiagnosed COPD. 
 
-Kate uses a variety of methodological tools in her research, including systematic reviews, empirical analysis of clinical studies and administrative ‘big data’, and decision-analytic modeling. Kate holds a BSc in Biology from the University of Alberta and an MSc in Ecology from the University of British Columbia. Her multidisciplinary background is united by her passion for statistics and data science. Kate also has an interest in science communication through writing and data visualization.
+Kate uses a variety of methodological tools in her research, including systematic reviews, empirical analysis of clinical studies and administrative ‘big data’, and decision-analytic modeling. Kate's multidisciplinary background is united by her passion for statistics and data science. She also has an interest in science communication through writing and data visualization.
