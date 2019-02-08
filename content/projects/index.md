@@ -1,16 +1,15 @@
 
 +++
 title = "Projects"
-date = 2017-01-01T00:00:00
+# date = 2017-01-01T00:00:00
 
-# List format.
-#   0 = Simple
-#   1 = Detailed
-#   2 = Stream
-list_format = 2
+# View.
+# Customize how projects are displayed.
+# Legend: 0 = list, 1 = cards, 2 = showcase.
+view = 1
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = ""
-caption = ""
+# image = ""
+# caption = ""
 +++
