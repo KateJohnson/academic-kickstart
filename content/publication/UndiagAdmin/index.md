@@ -1,6 +1,6 @@
 +++
 title = "Healthcare system encounters before COPD diagnosis: a registry-based longitudinal cohort study"
-date = 2018-12-13T00:00:00
+date = 2019-06-07T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -22,7 +22,7 @@ publication = ""
 #publication_short = "In *ICMEW*"
 
 # Abstract and optional shortened version.
-abstract = "We documented frequent interactions between COPD patients before diagnosis and the healthcare system. This suggests that there are many opportunities to implement case detection strategies in outpatient settings, and that it is possible to improve early detection substantially while relying only on opportunistic healthcare encounters. COPD patients interacted most frequently with pharmacists before diagnosis, but the greatest difference between COPD and non-COPD subjects was in the rate of primary care visits for respiratory-related reasons. Either of these types of visits might present high value opportunities for case detection."
+abstract = "COPD patients frequently interact with the healthcare system before diagnosis. Our work suggests that there are many opportunities to implement case detection strategies in outpatient settings, and that it is possible to improve early detection substantially while relying only on opportunistic healthcare encounters. COPD patients interacted most frequently with pharmacists before diagnosis, but the greatest difference between COPD and non-COPD subjects was in the rate of primary care visits for respiratory-related reasons. Either of these types of visits might present high value opportunities for case detection."
 
 # Is this a featured publication? (true/false)
 featured = true
