@@ -1,15 +1,15 @@
 ---
-title: Example Talk
-event: Academic Theme Conference
-location: London, United Kingdom
-summary: An example talk using Academic's Markdown slides feature.
-abstract: "here we go"
+title: Featured Talks
 
-# Is this a featured talk? (true/false)
-featured: true
+# View.
+#   1 = List
+#   2 = Compact
+#   3 = Card
+view: 2
 
-
+# Optional header image (relative to `static/img/` folder).
+header:
+  caption: ""
+  image: ""
 ---
-
-This is my example content.
 

@@ -1,17 +1,13 @@
 ---
-title: An example title
-summary: Here we describe how to add a page to your site.
-date: "2018-06-28T00:00:00Z"
+title: Example Talk
+event: Academic Theme Conference
+location: London, United Kingdom
+summary: An example talk using Academic's Markdown slides feature.
+abstract: "here we go"
 
-reading_time: false  # Show estimated reading time?
-share: false  # Show social sharing links?
-profile: false  # Show author profile?
-comments: false  # Show comments?
+# Is this a featured talk? (true/false)
+featured: true
 
-# Optional header image (relative to `static/img/` folder).
-header:
-  caption: ""
-  image: ""
 ---
 
-Add your *content* here...
+This is my example content.
