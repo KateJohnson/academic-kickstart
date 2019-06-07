@@ -13,6 +13,11 @@
   url = "#publications_featured"
   weight = 2
 
+[[main]]
+  name = "Talks"
+  url = "#Talks"
+  weight = 2
+
 #[[main]]
 #  name = "Posts"
 #  url = "#posts"
