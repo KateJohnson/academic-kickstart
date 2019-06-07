@@ -22,7 +22,7 @@ publication = "In *Respiratory Research*"
 #publication_short = "In *ICMEW*"
 
 # Abstract and optional shortened version.
-abstract = "Nearly 80% of patients with chronic obstructive pulmonary disease (COPD) are undiagnosed. Characterizing these patients can increase our understanding of the 'hidden' burden of COPD and the effectiveness of case detection interventions. We conducted a systematic review and meta-analysis to compare patient and disease factors between patients with undiagnosed persistent airflow limitation and those with diagnosed COPD. Undiagnosed patients had less severe airflow obstruction and fewer respiratory symptoms than diagnosed patients. Major risk factors for COPD (older age and smoking status) were not associated with a previous diagnosis, suggesting that diagnoses are made based on lung function impairment and symptoms rather than risk factors for the disease."
+abstract = "Nearly 80% of patients with chronic obstructive pulmonary disease (COPD) are undiagnosed. Characterizing these patients can increase our understanding of the hidden burden of COPD and the effectiveness of case detection interventions. We conducted a meta-analysis to compare patient and disease factors between patients with undiagnosed and diagnosed COPD. Undiagnosed patients had less severe airflow obstruction and fewer respiratory symptoms than diagnosed patients. Major risk factors for COPD, including older age and smoking status, were not associated with a previous diagnosis. This suggests that diagnoses are typically made because of impairment, rather than proactively based on patient risk factors."
 
 # Is this a featured publication? (true/false)
 featured = true
