@@ -1,10 +1,10 @@
 +++
-title = "Healthcare system encounters before COPD diagnosis: a registry-based longitudinal cohort study"
-date = 2019-06-07T00:00:00
+title = "Characterizing undiagnosed chronic obstructive pulmonary disease: a systematic review and meta-analysis"
+date = 2018-11-13T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["KM Johnson", "A Khakban", "S Bryan", "D Sin", "M Sadatsafavi", "for the Canadian Respiratory Research Network"]
+authors = ["KM Johnson", "S Bryan", "S Ghanbarian", "D Sin", "M Sadatsafavi"]
 
 # Publication type.
 # Legend:
@@ -15,14 +15,14 @@ authors = ["KM Johnson", "A Khakban", "S Bryan", "D Sin", "M Sadatsafavi", "for 
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["3"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = ""
+publication = "In *Respiratory Research*"
 #publication_short = "In *ICMEW*"
 
 # Abstract and optional shortened version.
-abstract = "COPD patients frequently interact with the healthcare system before diagnosis. Our work suggests that there are many opportunities to implement case detection strategies in outpatient settings, and that it is possible to improve early detection substantially while relying only on opportunistic healthcare encounters. COPD patients interacted most frequently with pharmacists before diagnosis, but the greatest difference between COPD and non-COPD subjects was in the rate of primary care visits for respiratory-related reasons. Either of these types of visits might present high value opportunities for case detection."
+abstract = "Nearly 80% of patients with chronic obstructive pulmonary disease (COPD) are undiagnosed. Characterizing these patients can increase our understanding of the 'hidden' burden of COPD and the effectiveness of case detection interventions. We conducted a systematic review and meta-analysis to compare patient and disease factors between patients with undiagnosed persistent airflow limitation and those with diagnosed COPD. Undiagnosed patients had less severe airflow obstruction and fewer respiratory symptoms than diagnosed patients. Major risk factors for COPD (older age and smoking status) were not associated with a previous diagnosis, suggesting that diagnoses are made based on lung function impairment and symptoms rather than risk factors for the disease."
 
 # Is this a featured publication? (true/false)
 featured = true
@@ -40,7 +40,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://doi.org/10.1186/s12931-018-0731-1"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
