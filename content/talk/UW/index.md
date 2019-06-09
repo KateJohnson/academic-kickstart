@@ -14,6 +14,10 @@ all_day: false
 # Is this a featured talk? (true/false)
 featured: true
 
+image:
+  caption: ''
+  focal_point: Right
+
 links:
 url_code: ""
 url_pdf: ""
