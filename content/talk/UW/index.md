@@ -8,11 +8,5 @@ abstract: "The highly anticipated paradigm shift from population-level to indivi
 # Is this a featured talk? (true/false)
 featured: true
 
-links:
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
-
 ---
 
