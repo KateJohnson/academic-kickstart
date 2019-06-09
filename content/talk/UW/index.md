@@ -10,6 +10,9 @@ abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
 date: "2030-06-01T13:00:00Z"
 date_end: "2030-06-01T15:00:00Z"
 all_day: false
+
+# Is this a featured talk? (true/false)
+featured: false
 ---
 
 does this work?
