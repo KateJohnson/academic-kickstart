@@ -1,5 +1,5 @@
 ---
-title: Example Talk
+title: New Title
 event: Academic Theme Conference
 event_url: https://example.org
 location: London, United Kingdom
