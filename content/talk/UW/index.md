@@ -1,13 +1,16 @@
 ---
-title: Understanding disease trajectory to guide precision policy: a case study in COPD
-event: University of Washington PhENOM Seminar
-location: Seattle, Washington
-summary: Invited Lecture at University of Washington PhENOM seminar series.
+title: Example Talk
+event: Academic Theme Conference
+event_url: https://example.org
+location: London, United Kingdom
+summary: An example talk using Academic's Markdown slides feature.
+abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
 
-
-# Is this a featured talk? (true/false)
-featured: true
-
+# Talk start and end times.
+#   End time can optionally be hidden by prefixing the line with `#`.
+date: "2030-06-01T13:00:00Z"
+date_end: "2030-06-01T15:00:00Z"
+all_day: false
 ---
 
 does this work?
