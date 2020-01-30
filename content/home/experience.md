@@ -36,7 +36,7 @@ date_format = "January 2006"
   location = "Vancouver"
   date_start = "2016-09-01"
   date_end = ""
-  description = """I conducted systematic reviews, empirical analysis of clinical studies and administrative big data, and simulation modeling to assess the efficiency of case detection strategies implemented in primary care settings to improve detection of undiagnosed COPD."""
+  description = """I developed expertise in systematic reviews, empirical analysis of clinical studies and administrative big data, and simulation modeling to assess the efficiency of case detection strategies for improving early detection of COPD."""
   
 [[experience]]
   title = "Master's of Science"
