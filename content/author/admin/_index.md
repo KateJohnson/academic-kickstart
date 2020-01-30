@@ -30,6 +30,7 @@ interests = [
   course = "PhD Candidate in Health Outcomes"
   institution = "University of British Columbia"
   year = 2020
+  "Assessing the cost-effectiveness of strategies for improving the early detection of COPD"
 
 [[education.courses]]
   course = "MSc in Ecology"
