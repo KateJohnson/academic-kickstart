@@ -34,21 +34,27 @@ weight = 7
   description = ""  
   
 [[feature]]
-  icon = "chart-line"
+  icon = "network-wired"
   icon_pack = "fas"
   name = "Disease modelling"
   description = ""  
   
 [[feature]]
-  icon = "chart-line"
+  icon = "hand-holding-usd"
   icon_pack = "fas"
   name = "Cost-effectiveness models"
   description = ""    
 
 [[feature]]
-  icon = "camera-retro"
+  icon = "microphone"
   icon_pack = "fas"
   name = "Science communication"
-  description = "10%"
+  description = ""
+  
+[[feature]]
+  icon = "keyboard"
+  icon_pack = "fas"
+  name = "Peer-reviewed publications"
+  description = ""  
 
 +++
