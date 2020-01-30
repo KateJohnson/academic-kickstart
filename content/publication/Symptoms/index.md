@@ -25,7 +25,7 @@ publication = "In *International Journal of COPD*"
 abstract = "Respiratory symptoms are a key component of the natural history of chronic obstructive pulmonary disease, but have been less well studied than other disease dimensions. We documented wide variation in the presence of symptoms between individuals. This variation was not well explained by most commonly measured markers of disease, including lung function. Quantifying variation in symptoms at the individual level is critical to enabling precise risk factor and disease management."
 
 # Is this a featured publication? (true/false)
-featured = true
+featured = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
