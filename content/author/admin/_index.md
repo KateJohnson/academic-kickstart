@@ -6,23 +6,23 @@ name = "Kate Johnson"
 superuser = true
 
 # Role/position
-role = "PhD Candidate in Health Outcomes"
+role = "Postdoctoral Fellow"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "University of British Columbia", url = "" } ]
+organizations = [ { name = "The Comparative Health Outcomes, Policy, and Economics (CHOICE) Institute, University of Washington", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "I study the health outcomes and economics of respiratory diseases."
+bio = "I study the health outcomes and economics of chronic diseases."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email = ""
+email = "katemarjohnson@gmail.com"
 
 # List (academic) interests or hobbies
 interests = [
   "Health Outcomes",
   "Health Economics",
-  "Respiratory Research"
+  "Chronic Disease"
 ]
 
 # List qualifications (such as academic degrees)
