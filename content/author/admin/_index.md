@@ -22,7 +22,8 @@ email = "katemarjohnson@gmail.com"
 interests = [
   "Health Outcomes",
   "Health Economics",
-  "Chronic Disease"
+  "Simulation Modelling",
+  "Chronic Diseases"
 ]
 
 # List qualifications (such as academic degrees)
@@ -30,7 +31,6 @@ interests = [
   course = "PhD Candidate in Health Outcomes"
   institution = "University of British Columbia"
   year = 2020
-  "Assessing the cost-effectiveness of strategies for improving the early detection of COPD"
 
 [[education.courses]]
   course = "MSc in Ecology"
@@ -89,6 +89,8 @@ interests = [
 
 +++
 
-Kate Johnson is a PhD Candidate in the *Respiratory Evaluation Sciences Program* [(RESP)](http://resp.core.ubc.ca/) at the UBC Faculty of Pharmaceutical Sciences. The focus of her PhD research is on evaluating strategies for improving early detection of chronic obstructive pulmonary disease (COPD). In particular, Kate is assessing the efficiency of case detection strategies for detecting individuals with undiagnosed COPD. 
+I am a health outcomes researcher passionate about improving care for chronic diseases. I use methods in epidemiology, simulation modelling, and health economics to evaluate strategies for increase the value of health. I believe in applying rigourous scientific methodology to clinical and policy problems that have a real-world impact on patients.
 
-Kate uses a variety of methodological tools in her research, including systematic reviews, empirical analysis of clinical studies and administrative big data, and simulation modeling. Kate's multidisciplinary background is united by her passion for statistics and data science. She also has an interest in science communication through writing and data visualization.
+I completed my PhD research in the *Respiratory Evaluation Sciences Program* [(RESP)](http://resp.core.ubc.ca/) at the UBC Faculty of Pharmaceutical Sciences. I used systematic reviews, empirical analysis of clinical studies and administrative big data, and simulation modeling to assess the efficiency of case detection strategies for detecting individuals with undiagnosed COPD. 
+
+I have a MSc in BSc in Biology, with a focus on using biostatistics to address problems in conservations. My multidisciplinary background is united by my passion for statistics and data science, and my interest in science communication through writing and data visualization.
