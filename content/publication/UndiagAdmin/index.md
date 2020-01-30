@@ -4,7 +4,7 @@ date = 2019-06-07T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["KM Johnson", "A Khakban", "S Bryan", "D Sin", "M Sadatsafavi", "for the Canadian Respiratory Research Network"]
+authors = ["KM Johnson", "A Khakban", "S Bryan", "D Sin", "M Sadatsafavi"]
 
 # Publication type.
 # Legend:
@@ -15,14 +15,14 @@ authors = ["KM Johnson", "A Khakban", "S Bryan", "D Sin", "M Sadatsafavi", "for 
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["3"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = ""
+publication = "Thorax"
 #publication_short = "In *ICMEW*"
 
 # Abstract and optional shortened version.
-abstract = "COPD patients frequently interact with the healthcare system before diagnosis. Our work suggests that there are many opportunities to implement case detection strategies in outpatient settings, and that it is possible to improve early detection substantially while relying only on opportunistic healthcare encounters. COPD patients interacted most frequently with pharmacists before diagnosis, but the greatest difference between COPD and non-COPD subjects was in the rate of primary care visits for respiratory-related reasons. Either of these types of visits might present high value opportunities for case detection."
+abstract = "The results of this work indicate there are many opportunities to implement case detection strategies for COPD in outpatient settings. COPD patients interacted most frequently with pharmacists before diagnosis, but primary care visits before diagnosis were most frequently related to circulatory disease. Either of these types of visits might present high value opportunities for case detection."
 
 # Is this a featured publication? (true/false)
 featured = true
@@ -40,7 +40,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://thorax.bmj.com/content/75/2/108.abstract"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
