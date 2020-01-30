@@ -1,7 +1,7 @@
 +++
 # Experience widget.
 widget = "experience"  # Do not modify this line!
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 
 title = "Experience"
 subtitle = ""
@@ -18,28 +18,24 @@ date_format = "January 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
-[[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Senior Fellow"
+  company = "The Comparative Health Outcomes, Policy, and Economics (CHOICE) Institute, University of Washington"
+  company_url = "https://sop.washington.edu/choice/"
+  location = "Seattle"
+  date_start = "2020-01-02"
+  date_end = ""
+  description = """The focus of my postdoctoral work is on building simulation models to evalaute curative therapies for sickle cell disease and new treatments for diabetes."""
+
+
+[[experience]]
+  title = "Doctorate"
+  company = "Faculty of Pharmaceutical Sciences, University of British Columbia"
+  company_url = "http://resp.core.ubc.ca/"
+  location = "Vancouver"
+  date_start = "2016-09-01"
+  date_end = ""
+  description = """I developed expertise in systematic reviews, empirical analysis of clinical studies and administrative big data, and simulation modeling to assess the efficiency of case detection strategies implemented in primary care settings to improve detection of undiagnosed COPD."""
 
 +++

@@ -91,6 +91,6 @@ interests = [
 
 I am a health outcomes researcher passionate about improving care for chronic diseases. I use methods in epidemiology, simulation modelling, and health economics to evaluate strategies for increasing the value of health. I apply rigourous scientific methodology to clinical and policy problems that have a real-world impact on patients.
 
-I completed my PhD research at the UBC [(Faculty of Pharmaceutical Sciences)](http://resp.core.ubc.ca/), where I developed expertise in systematic reviews, empirical analysis of clinical studies and administrative big data, and simulation modeling to assess the efficiency of case detection strategies for detecting individuals with undiagnosed COPD. 
+I completed my PhD research at the UBC [Faculty of Pharmaceutical Sciences](http://resp.core.ubc.ca/), where . 
 
 I have a MSc in BSc in Biology with a focus on biostatistics. My multidisciplinary background is united by my passion for statistics and data science.
