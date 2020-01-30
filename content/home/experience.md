@@ -26,16 +26,24 @@ date_format = "January 2006"
   location = "Seattle"
   date_start = "2020-01-02"
   date_end = ""
-  description = """The focus of my postdoctoral work is on building simulation models to evalaute curative therapies for sickle cell disease and new treatments for diabetes."""
+  description = """The focus of my postdoctoral work is on building disease simulation models to evalaute curative therapies for sickle cell disease and new treatments for diabetes."""
 
 
 [[experience]]
   title = "Doctorate"
-  company = "Faculty of Pharmaceutical Sciences, University of British Columbia"
+  company = "Respiratory Evaluation Sciences Program, Faculty of Pharmaceutical Sciences, University of British Columbia"
   company_url = "http://resp.core.ubc.ca/"
   location = "Vancouver"
   date_start = "2016-09-01"
   date_end = ""
-  description = """I developed expertise in systematic reviews, empirical analysis of clinical studies and administrative big data, and simulation modeling to assess the efficiency of case detection strategies implemented in primary care settings to improve detection of undiagnosed COPD."""
+  description = """I conducted systematic reviews, empirical analysis of clinical studies and administrative big data, and simulation modeling to assess the efficiency of case detection strategies implemented in primary care settings to improve detection of undiagnosed COPD."""
+  
+[[experience]]
+  title = "Master's of Science"
+  company = "Centre for Applied Conservation Research, University of British Columbia"
+  location = "Vancouver"
+  date_start = "2013-09-01"
+  date_end = "2015-09-01"
+  description = """I have a MSc in BSc in Biology with a focus on biostatistics. My multidisciplinary background is united by my passion for statistics and data science."""  
 
 +++
