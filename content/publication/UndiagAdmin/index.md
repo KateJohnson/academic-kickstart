@@ -22,7 +22,7 @@ publication = "Thorax"
 #publication_short = "In *ICMEW*"
 
 # Abstract and optional shortened version.
-abstract = "The results of this work indicate there are many opportunities to implement case detection strategies for COPD in outpatient settings. COPD patients interacted most frequently with pharmacists before diagnosis, but primary care visits before diagnosis were most frequently related to circulatory disease. Either of these types of visits might present high value opportunities for case detection."
+abstract = "The results of this work indicate there are many opportunities to implement case detection strategies for chronic obstructive pulmonary disease (COPD) in outpatient settings. COPD patients interacted most frequently with pharmacists before diagnosis, but primary care visits before diagnosis were most frequently related to circulatory disease. Either of these types of visits might present high value opportunities for case detection."
 
 # Is this a featured publication? (true/false)
 featured = true
