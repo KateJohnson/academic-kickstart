@@ -91,5 +91,3 @@ interests = [
 
 I am a health outcomes researcher passionate about improving care for chronic diseases. I use methods in epidemiology, simulation modelling, and health economics to evaluate strategies for increasing the value of health in a world with limited resources. I apply rigourous scientific methodology to clinical and policy problems that have a real-world impact on patients.
 
-*Click the google scholar icon for a full list of my publications*
-
