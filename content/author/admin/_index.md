@@ -10,7 +10,7 @@ role = "Postdoctoral Fellow"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "The Comparative Health Outcomes, Policy, and Economics (CHOICE) Institute, University of Washington", url = "" } ]
+organizations = [ { name = "The Comparative Health Outcomes, Policy, and Economics (CHOICE) Institute, School of Pharmacy, University of Washington", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = "I study the health outcomes and economics of chronic diseases."
@@ -28,7 +28,7 @@ interests = [
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "PhD Candidate in Health Outcomes"
+  course = "PhD Candidate in Pharmaceutical Sciences"
   institution = "University of British Columbia"
   year = 2020
 
@@ -89,5 +89,5 @@ interests = [
 
 +++
 
-I am a health outcomes researcher passionate about improving care for chronic diseases. I use methods in epidemiology, simulation modelling, and health economics to evaluate strategies for increasing the value of health in a world with limited resources. I apply rigourous scientific methodology to clinical and policy problems that have a real-world impact on patients.
+I am a health outcomes researcher passionate about improving care for chronic diseases. I use methods in epidemiology, simulation modelling, and health economics to evaluate strategies for increasing the value of health in a world with limited resources. I believe in applying rigourous scientific methodology to clinical and policy problems that have a real-world impact on patients.
 
