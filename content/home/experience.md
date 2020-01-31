@@ -39,7 +39,7 @@ date_format = "January 2006"
   description = """I developed expertise in systematic reviews, empirical analysis of clinical studies and administrative big data, and simulation modeling to assess the efficiency of case detection strategies for improving early detection of COPD."""
   
 [[experience]]
-  title = "Master's of Science"
+  title = "Master of Science"
   company = "Centre for Applied Conservation Research, University of British Columbia"
   location = "Vancouver"
   date_start = "2013-09-01"
