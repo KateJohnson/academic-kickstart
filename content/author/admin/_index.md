@@ -28,7 +28,7 @@ interests = [
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "PhD Candidate in Pharmaceutical Sciences"
+  course = "PhD in Pharmaceutical Sciences"
   institution = "University of British Columbia"
   year = 2020
 
