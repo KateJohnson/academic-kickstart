@@ -35,7 +35,7 @@ date_format = "January 2006"
   company_url = "http://resp.core.ubc.ca/"
   location = "Vancouver"
   date_start = "2016-09-01"
-  date_end = ""
+  date_end = "2020-04-01"
   description = """I developed expertise in systematic reviews, empirical analysis of clinical studies and administrative big data, and simulation modeling to assess the efficiency of case detection strategies for improving early detection of COPD."""
   
 [[experience]]
